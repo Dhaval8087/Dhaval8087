@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhaval Patel</h1>
 <h3 align="center">A software developer from India, GJ</h3>
 
-- 🌱 I’m currently learning **AWS, TypeScript**
+- 🌱 I’m currently learning **AWS, Terraform**
 
 - 💬 Ask me about **react, angular, node, mongo, C#**
 
